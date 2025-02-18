@@ -25,4 +25,8 @@
 
 ## Project Summary
 
-This is a summary of the project!
+TravelEase is a web application designed to help users plan, organize, and track their travel expenses. It enables users to create detailed itineraries, store trip-related bookings, categorize travel expenses, and generate spending reports. We essentially want to make a way for users to manage all aspects of their travel in one centralized location, from creating and editing entries to updating and deleting them as needed.
+
+With the rise in individuals and families traveling for work, leisure, and study abroad programs, keeping track of multiple bookings, expenses, and budgets can be overwhelming. Existing travel apps focus on either itinerary planning or expense tracking, but not everything in one place. TravelEase is essentially everything in one place, so it allows users to manage their itinerary and keep track of their finances.
+
+
